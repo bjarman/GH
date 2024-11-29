@@ -1,0 +1,13 @@
+{
+  "id" : "https://bjarman.github.io/GH/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in bjarman/GH project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://bjarman.github.io/GH/manifests/manifest.json",
+    "label" : "G3 Annotation Demo"
+  } ]
+}
