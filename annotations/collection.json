@@ -1,0 +1,7 @@
+{
+  "@type" : "sc:Layer",
+  "otherContent" : [ "https://bjarman.github.io/GH/annotations/NIJAIGTACIUHWOLJLRPRHUHH.json" ],
+  "@id" : "https://bjarman.github.io/GH/annotations/collection.json",
+  "label" : "All annotations loaded in bjarman/GH project",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
