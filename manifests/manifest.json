@@ -2,10 +2,10 @@
   "@context" : "http://iiif.io/api/presentation/2/context.json",
   "@id" : "https://bjarman.github.io/GH/manifests/manifest.json",
   "@type" : "sc:Manifest",
-  "label" : "G3 Annotation Demo",
+  "label" : "GH Annotation Demo",
   "metadata" : [ ],
   "description" : [ {
-    "@value" : "G3 Annotation Demo",
+    "@value" : "GH Annotation Demo",
     "@language" : "en"
   } ],
   "license" : "https://creativecommons.org/licenses/by/3.0/",
@@ -20,7 +20,7 @@
     "canvases" : [ {
       "@id" : "http://a5dcae4d-9c49-45c3-9709-0d68f70b4c27",
       "@type" : "sc:Canvas",
-      "label" : "G3 Annotation Demo",
+      "label" : "GH Annotation Demo",
       "height" : 2479,
       "width" : 2264,
       "images" : [ {
@@ -29,12 +29,12 @@
         "@type" : "oa:Annotation",
         "motivation" : "sc:painting",
         "resource" : {
-          "@id" : "https://bjarman.github.io/G3/images/NIJAIGTACIUHWOLJLRPRHUHH/full/full/0/default.jpg",
+          "@id" : "https://bjarman.github.io/GH/images/NIJAIGTACIUHWOLJLRPRHUHH/full/full/0/default.jpg",
           "@type" : "dctypes:Image",
           "format" : "image/jpeg",
           "service" : {
             "@context" : "http://iiif.io/api/image/2/context.json",
-            "@id" : "https://bjarman.github.io/G3/images/NIJAIGTACIUHWOLJLRPRHUHH",
+            "@id" : "https://bjarman.github.io/GH/images/NIJAIGTACIUHWOLJLRPRHUHH",
             "profile" : "level2"
           },
           "height" : 2479,
@@ -42,9 +42,9 @@
         },
         "on" : "http://a5dcae4d-9c49-45c3-9709-0d68f70b4c27",
         "otherContent" : [ {
-          "@id" : "https://bjarman.github.io/G3/annotations/NIJAIGTACIUHWOLJLRPRHUHH.json",
+          "@id" : "https://bjarman.github.io/GH/annotations/NIJAIGTACIUHWOLJLRPRHUHH.json",
           "@type" : "sc:AnnotationList",
-          "label" : "G3 annotations"
+          "label" : "GH annotations"
         } ]
       } ],
       "related" : ""
